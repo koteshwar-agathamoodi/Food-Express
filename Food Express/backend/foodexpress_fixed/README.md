@@ -22,7 +22,7 @@ FoodExpress is a complete full-stack backend application built with Spring Boot,
 
 1.  **Clone or Download** the project.
 2.  **Database Setup**:
-    -   Create a database named `food_delivery_db` in MySQL.
+    -   Create a database named `food_express_db` in MySQL.
     -   Ensure your root password matches the one in `src/main/resources/application.properties`.
 3.  **Build the Project**:
     
